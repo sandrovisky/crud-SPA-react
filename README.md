@@ -5,9 +5,9 @@ Tabela de conteúdos
    * [Features](#Features)
    * [Como usar](#Como-usar)
       * [Pre Requisitos](#Pré-requisitos)
-      * [Rodando API]()
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+      * [Rodando API](#Rosando-o-server)
+      * [Rodando o projeto](#Rodando-o-projeto)
+   * [Tecnologias](#Tecnologias-usadas)
 <!--te-->
 <h4 align="center">
  <b>Crud</b> 🦸‍♂️
@@ -85,7 +85,7 @@ $ npm start
 
 # O servidor inciará na porta:3000 caso não esteja sendo usada - acesse <http://localhost:3000>
 ```
-### :rocket: Tecnologias usadas
+### Tecnologias usadas
 Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://pt-br.reactjs.org/)
 - [Express](https://expressjs.com/pt-br/)
