@@ -4,9 +4,6 @@ Tabela de conteúdos
    * [Sobre](#Sobre)
    * [Features](#Features)
    * [Como usar](#Como-usar)
-      * [Pre Requisitos](#Pré-requisitos)
-      * [Rodando API](#Rosando-o-server)
-      * [Rodando o projeto](#Rodando-o-projeto)
    * [Tecnologias](#Tecnologias-usadas)
 <!--te-->
 <h4 align="center">
