@@ -37,7 +37,7 @@ Tabela de conteúdos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [XAMPP](https://www.apachefriends.org/pt_br/index.html). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-A API usada esta como um outro projeto em outro repositório, e será necessaria para que tudo funcione
+<p>A API usada esta como um outro projeto em outro repositório, e será necessaria para que tudo funcione</p>
 
 ### 🎲 Rodando o server
 
@@ -85,11 +85,8 @@ $ npm start
 ### Tecnologias usadas
 Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://pt-br.reactjs.org/)
-- [Express](https://expressjs.com/pt-br/)
 - [Axios](https://www.npmjs.com/package/axios)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 - [React-Router](https://reactrouter.com/)
-- [Sequelize](https://sequelize.org/)
-- [Express](https://expressjs.com/pt-br/)
 
 <p align="center">Feito com ❤️ por <strong>Sandrovisky :wave: </p>
