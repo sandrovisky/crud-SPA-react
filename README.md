@@ -2,3 +2,6 @@
  CRUD em Sinfle Page Aplication feito em react.
  ja implementado função de novo cadastro, listagem excluir cadastro.
  faltando implementação de edição de cadastro.
+
+
+https://sandrovisky.github.io/crud-SPA-react/.
