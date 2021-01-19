@@ -14,9 +14,9 @@ Tabela de conteúdos
 
 ### Sobre
 
-<h1 align="center">
+<h4 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
+</h4>
 <p align="center">🚀 Esse projeto foi meu primeiro projeto de verdade feito a partir do zero. Foi feito tanto para aprender um pouco mais sobre react quanto pra aprender em como é desevolver um sistema real. Decidi fazer ele como um Single Page Aplication por acreditar ser um desafio ainda maior</p>
 
 <h4 align="center"> 
