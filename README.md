@@ -3,9 +3,9 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Features](#Features)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#rodando-o-server)
-      * [Rodando API](#pre-requisitos)
+   * [Como usar](#Como-usar)
+      * [Pre Requisitos](#Pré-requisitos)
+      * [Rodando API]()
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
@@ -32,6 +32,8 @@ Tabela de conteúdos
 - [x] Listagem de cadastros
 - [x] Exclusão de cadastro
 - [ ] Edição do cadastro
+
+### Como usar
 
 ### Pré-requisitos
 
